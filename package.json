@@ -1,7 +1,7 @@
 {
-  "name": "optimizedhtml",
-  "version": "2.0.1",
-  "description": "OptimizedHTML - Start HTML Template",
+  "name": "teplo-v-dom",
+  "version": "1.0.0",
+  "description": "verstka",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +24,13 @@
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
     "vinyl-ftp": "^0.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShipaM/teplo-v-dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShipaM/teplo-v-dom/issues"
+  },
+  "homepage": "https://github.com/ShipaM/teplo-v-dom#readme"
 }
