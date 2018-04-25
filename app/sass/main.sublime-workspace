@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"str",
+				"strong\t(index.html)"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"p",
+				"p\tpadding"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ti",
+				"title\t(about.html)"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"f",
+				"fl\tfloat"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"b",
+				"bg\tbackground"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"marginl",
+				"margin-left"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 281.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ps3",
+				"Snippet: bs3-form"
+			],
+			[
+				"reload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)﻿"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/Gist/Default(Windows).sublime-keymap",
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/Gist/Default (Windows).sublime-keymap",
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/ShipaMax/Desktop/mysite/index.html",
+		"/C/Users/ShipaMax/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ShipaMax/Desktop/mysite/Baxter.index.html",
+		"/C/Users/ShipaMax/Desktop/7zE87AB7B81/jquery.mmenu.js",
+		"/C/Users/ShipaMax/Desktop/7zE87AB7B81/jquery.mmenu.css",
+		"/C/Users/ShipaMax/Documents/myproject/Landing page/app/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/building page/gulpfile.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/_libs.sass",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/_vars.sass",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/css/main.min.css",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/_fonts.sass",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/main.sass",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/js/common.js",
+		"/C/Users/ShipaMax/Desktop/Новая папка/css/style.scss",
+		"/C/Users/ShipaMax/Desktop/Верстка сайта по psd  макету/business/app/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/building page/dist/css/main.min.css",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/mmenu/css/jquery.mmenu.all.css",
+		"/C/Users/ShipaMax/Desktop/Верстка сайта по psd  макету/business/app/css/main.css",
+		"/C/Users/ShipaMax/Desktop/Верстка сайта по psd  макету/business/app/about.html",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/mmenu/js/jquery.mmenu.debugger.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/mmenu/js/jquery.mmenu.all.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/mmenu/css/jquery.mmenu.css",
+		"/C/Users/ShipaMax/Documents/myproject/Landing page/app/css/main.css",
+		"/C/Users/ShipaMax/Desktop/font-awesome-4.7.0/css/font-awesome.min.css",
+		"/C/Users/ShipaMax/Desktop/css/style.css",
+		"/C/Users/ShipaMax/Desktop/css/_settings.scss",
+		"/C/Users/ShipaMax/Desktop/css/_fonts.scss",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/fontawesome/font-awesome.min.css",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/_mixins/_font-face.sass",
+		"/C/Users/ShipaMax/Documents/myproject/Landing page/app/js/common.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/node_modules/weinre/web/client/inspector.css",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zOCDE1ECEE/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/jQuery.mmenu/gulpfile.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/jQuery.mmenu/dist/jquery.mmenu.all.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/libs/jQuery.mmenu/dist/jquery.mmenu.js",
+		"/C/Users/ShipaMax/Documents/myproject/Landing page/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/Адаптивная верстка на примере сайта автосервиса/Верстка сайта автомастерской/app/css/fonts.css",
+		"/C/Users/ShipaMax/Documents/myproject/building page/app/sass/_media.sass",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO012385E7/stylesheet.css",
+		"/C/Users/ShipaMax/Desktop/Шаблон для верстки/gulpfile.js",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zOC20C7A8A/raleway-thin-demo.html",
+		"/C/Users/ShipaMax/Desktop/Адаптивная верстка на примере сайта автосервиса/Верстка сайта автомастерской/app/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/gulpfile.js",
+		"/C/Users/ShipaMax/Documents/myproject/building page/.bowerrc",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/ShipaMax/Documents/myproject/Landing page/app/sass/main.sass",
+		"/C/Users/ShipaMax/Desktop/optimizedhtml-start-template-master/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/optimizedhtml-start-template-master/app/sass/_mixins/_font-face.sass",
+		"/C/Users/ShipaMax/Desktop/optimizedhtml-start-template-master/app/sass/_media.sass",
+		"/C/Users/ShipaMax/Desktop/Dmitry/css/style.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/libs/myFonts/stylesheet.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/fonts.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/media.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/main.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/js/common.js",
+		"/C/Users/ShipaMax/Documents/myproject/app/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/main.sass",
+		"/C/Users/ShipaMax/Desktop/Dmitry/roadbot.html",
+		"/C/Users/ShipaMax/Desktop/Новая папка/index.html",
+		"/C/Users/ShipaMax/Desktop/Dmitry/style.css",
+		"/C/Users/ShipaMax/Desktop/Адаптивная верстка на примере сайта автосервиса/Верстка сайта автомастерской/app/css/main.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/fonts.sass",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO421734F1/stylesheet.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/sass/main.sass",
+		"/C/Users/ShipaMax/Desktop/верстка образовательной landing page/_clean_sass/css/sass/main.sass",
+		"/C/Users/ShipaMax/Desktop/Адаптивная верстка на примере сайта автосервиса/template_bootstrap/_.htaccess",
+		"/C/Users/ShipaMax/Desktop/Шаблон для верстки/package.json",
+		"/C/Users/ShipaMax/Desktop/css/style.scss",
+		"/C/Users/ShipaMax/Desktop/Препроцессор Sass/sass-beginners-master/css/main.css",
+		"/C/Users/ShipaMax/Desktop/Препроцессор Sass/sass-beginners-master/sass/main.sass",
+		"/C/Users/ShipaMax/Desktop/Препроцессор Sass/sass-beginners-master/package.json",
+		"/C/Users/ShipaMax/Desktop/Препроцессор Sass/sass-beginners-master/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/sass-beginners-master/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/css/style.css.map",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/Шаблон Bootstrap/css/fonts.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/_fonts.scss",
+		"/C/Users/ShipaMax/Documents/myproject/dist/js/common.js",
+		"/C/Users/ShipaMax/Documents/myproject/app/servises.html",
+		"/C/Users/ShipaMax/Documents/myproject/app/portfolio.html",
+		"/C/Users/ShipaMax/Documents/myproject/app/contact.html",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/Шаблон Bootstrap/js/common.js",
+		"/C/Users/ShipaMax/Documents/myproject/app/about.html",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/Шаблон Bootstrap/index.html",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/_reset.scss",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/main.scss",
+		"/C/Users/ShipaMax/Documents/myproject/app/js/slider.js",
+		"/C/Users/ShipaMax/Desktop/Верстка сайта по psd  макету/business/gulpfile.js",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/reset.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/_part.scss",
+		"/C/Users/ShipaMax/Documents/myproject/business/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/business/gulpfile.js",
+		"/C/Users/ShipaMax/Desktop/Верстка сайта по psd  макету/business/app/css/fonts.css",
+		"/C/Users/ShipaMax/Documents/myproject/app/sass/style.scss",
+		"/C/Users/ShipaMax/Documents/myproject/app/css/style.css",
+		"/C/Users/ShipaMax/Desktop/Шаблон Bootstrap/index.html",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/assets/stylesheets/_bootstrap.scss",
+		"/C/Users/ShipaMax/Desktop/Шаблон Bootstrap/libs/bootstrap/bootstrap.css",
+		"/C/Users/ShipaMax/Desktop/Шаблон Bootstrap/libs/countdown/jquery.countdown.css",
+		"/C/Users/ShipaMax/Desktop/Шаблон Bootstrap/libs/fancybox/jquery.fancybox.css",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zOC5CB0269/index.html",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/template_bootstrap/css/fonts.css",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/template_bootstrap/libs/bootstrap/bootstrap-grid-3.3.1.min.css",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/template_bootstrap/css/main.css",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zOC9A77FF5/jquery.countdown.css",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/template_bootstrap/index.html",
+		"/C/Users/ShipaMax/Desktop/Новая папка (2)/css/bootstrap-theme.css",
+		"/C/Users/ShipaMax/Desktop/Новая папка (2)/css/bootstrap.css",
+		"/C/Users/ShipaMax/Desktop/Новая папка (2)/css/bootstrap.min.css",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/template_bootstrap/css/media.css",
+		"/C/Users/ShipaMax/Documents/bootstrapMyprojects/dist/js/common.js",
+		"/C/Users/ShipaMax/Documents/bootstrapMyprojects/dist/index.html",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO0D947BF3/config.json",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO4CC6ED8C/style.css",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO4CC7C4EB/index.html",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/templates/project/_bootstrap-variables.sass",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/templates/project/styles.sass",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/assets/stylesheets/bootstrap/_grid.scss",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/assets/stylesheets/bootstrap/_media.scss",
+		"/C/Users/ShipaMax/Desktop/Bootstrap уроки/bootstrap-sass-3.3.2/assets/stylesheets/bootstrap/_mixins.scss",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zOC1CE303A/pax_global_header",
+		"/C/Users/ShipaMax/AppData/Local/Temp/7zO0F410980/styles.sass",
+		"/C/Users/ShipaMax/Desktop/bootstrap-sass-3.3.2/package.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"\t\n",
+			"</html>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
