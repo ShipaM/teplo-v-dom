@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/ShipaM/teplo-v-dom/issues"
   },
-  "homepage": "https://github.com/ShipaM/teplo-v-dom#readme"
+  "homepage": "https://github.com/ShipaM/teplo-v-dom#readme",
+  "dependencies": {
+    "npm": "^6.4.0"
+  }
 }

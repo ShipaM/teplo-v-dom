@@ -20,8 +20,10 @@ vendor/bundle
 *.zip
 *~
 
+
 # OS or Editor folders
 ._*
+.git
 .cache
 .DS_Store
 .idea
@@ -34,14 +36,6 @@ vendor/bundle
 nbproject
 Thumbs.db
 
-# Komodo
-.komodotools
-*.komodoproject
-
-# Jekyll metadata and extra config file for `github` script
-docs/.jekyll-metadata
-twbsconfig.yml
-
 # Folders to ignore
 node_modules
-js/coverage
+
